@@ -55,3 +55,4 @@ the HTTP Basics project assigned a few days prior.
 [server]: https://github.com/appacademy/aa08-http-basics
 [http://localhost:5000]: http://localhost:5000
 [MDN Documentation on the `fetch` Response object]: https://developer.mozilla.org/en-US/docs/Web/API/Response
+# chase-frank-fetch-basic
